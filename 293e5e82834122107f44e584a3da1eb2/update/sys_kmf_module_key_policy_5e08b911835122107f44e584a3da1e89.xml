@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="global.com_snc_core_automation_connection_credential_glideencrypter">550cd0b07722201099808d1168106121</crypto_module>
+        <key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type>
+        <last_enforced>2025-05-03 06:05:19</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-03 06:05:19</sys_created_on>
+        <sys_id>5e08b911835122107f44e584a3da1e89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value=" Employee Recognition and Rewards application" source="x_cdltd_employee_r">293e5e82834122107f44e584a3da1eb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_5e08b911835122107f44e584a3da1e89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:05:19</sys_updated_on>
+    </sys_kmf_module_key_policy>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</claim_owner_scope>
+        <claim_timestamp>19694c204020000001</claim_timestamp>
+        <metadata_update_name>sys_kmf_module_key_policy_5e08b911835122107f44e584a3da1e89</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name> Employee Recognition and Rewards application</previous_claim_name>
+        <previous_claim_scope>293e5e82834122107f44e584a3da1eb2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-03 06:07:45</sys_created_on>
+        <sys_id>35987551835122107f44e584a3da1ede</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:07:45</sys_updated_on>
+    </sys_claim>
+</record_update>

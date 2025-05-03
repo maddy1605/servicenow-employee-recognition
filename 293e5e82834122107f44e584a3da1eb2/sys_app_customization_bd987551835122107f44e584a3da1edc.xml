@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-03 06:07:44</sys_created_on>
+        <sys_id>bd987551835122107f44e584a3da1edc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:07:44</sys_updated_on>
+        <vendor_app display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</vendor_app>
+        <vendor_app_version>1.0.0</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>Development Version</war_version>
+    </sys_app_customization>
+</record_update>

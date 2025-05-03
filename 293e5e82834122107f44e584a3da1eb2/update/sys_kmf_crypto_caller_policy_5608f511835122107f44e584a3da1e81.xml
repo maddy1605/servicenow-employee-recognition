@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>ba6be44693c5a6d477e5be177bba1099</owner>
+        <policy_name>AutoGen-scope-x_cdltd_employee_r-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-03 06:05:19</sys_created_on>
+        <sys_id>5608f511835122107f44e584a3da1e81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value=" Employee Recognition and Rewards application" source="x_cdltd_employee_r">293e5e82834122107f44e584a3da1eb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_5608f511835122107f44e584a3da1e81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:05:19</sys_updated_on>
+        <target_role/>
+        <target_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</claim_owner_scope>
+        <claim_timestamp>19694c204590000001</claim_timestamp>
+        <metadata_update_name>sys_kmf_crypto_caller_policy_5608f511835122107f44e584a3da1e81</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name> Employee Recognition and Rewards application</previous_claim_name>
+        <previous_claim_scope>293e5e82834122107f44e584a3da1eb2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-03 06:07:45</sys_created_on>
+        <sys_id>35987551835122107f44e584a3da1edf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:07:45</sys_updated_on>
+    </sys_claim>
+</record_update>
