@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Employee Recognition">4bc26282838122107f44e584a3da1e95</application>
+        <filter/>
+        <name>Employee Recognitions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 06:51:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>03c26282838122107f44e584a3da1e99</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Employee Recognitions</sys_name>
+        <sys_package display_value=" Employee Recognition and Rewards application" source="x_cdltd_employee_r">293e5e82834122107f44e584a3da1eb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</sys_scope>
+        <sys_update_name>sys_ui_module_03c26282838122107f44e584a3da1e99</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:28:34</sys_updated_on>
+        <table>x_cdltd_employee_r_employee_recognition</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</claim_owner_scope>
+        <claim_timestamp>19694d571530000001</claim_timestamp>
+        <metadata_update_name>sys_ui_module_03c26282838122107f44e584a3da1e99</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name> Employee Recognition and Rewards application</previous_claim_name>
+        <previous_claim_scope>293e5e82834122107f44e584a3da1eb2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-03 06:28:58</sys_created_on>
+        <sys_id>7c7d3d59835122107f44e584a3da1e68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:28:58</sys_updated_on>
+    </sys_claim>
+</record_update>

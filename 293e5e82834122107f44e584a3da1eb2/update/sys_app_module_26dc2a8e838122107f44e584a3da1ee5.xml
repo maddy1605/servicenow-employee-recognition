@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Employee Points">22dc2a8e838122107f44e584a3da1ee2</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_cdltd_employee_r_employee_points">total_pointsISNOTEMPTY^EQ<item endquery="false" field="total_points" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Employee Points</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_employee_r_employee_points</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_cdltd_employee_r.employee_points_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 07:35:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26dc2a8e838122107f44e584a3da1ee5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Employee Points</sys_name>
+        <sys_overrides/>
+        <sys_package display_value=" Employee Recognition and Rewards application" source="x_cdltd_employee_r">293e5e82834122107f44e584a3da1eb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</sys_scope>
+        <sys_update_name>sys_app_module_26dc2a8e838122107f44e584a3da1ee5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:27:45</sys_updated_on>
+        <timeline_page/>
+        <title>Employee Points</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value=" Employee Recognition and Rewards application">293e5e82834122107f44e584a3da1eb2</claim_owner_scope>
+        <claim_timestamp>19694d5715d0000001</claim_timestamp>
+        <metadata_update_name>sys_app_module_26dc2a8e838122107f44e584a3da1ee5</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name> Employee Recognition and Rewards application</previous_claim_name>
+        <previous_claim_scope>293e5e82834122107f44e584a3da1eb2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-03 06:28:58</sys_created_on>
+        <sys_id>307d3d59835122107f44e584a3da1e6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-03 06:28:58</sys_updated_on>
+    </sys_claim>
+</record_update>
